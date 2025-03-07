@@ -11,4 +11,3 @@ All my other links (YouTube, Twitter, etc) are availble on my [website](https://
 
 ###
 [![Stats-Dark](https://github-readme-stats.vercel.app/api?username=KilLo445&title_color=d40000&text_color=afafaf&icon_color=d40000&border_color=880000&show_icons=true&theme=shadow_red&border_radius=5#gh-dark-mode-only)](https://github.com/KilLo445/)
-[![Stats-Light](https://github-readme-stats.vercel.app/api?username=KilLo445&title_color=d40000&text_color=5a5a5a&icon_color=d40000&border_color=880000&show_icons=true&theme=shadow_red&border_radius=5#gh-light-mode-only)](https://github.com/KilLo445/)
