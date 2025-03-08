@@ -1,5 +1,5 @@
 ## Hello! 👋
-I'm **KilLo**, I like creating random stuff that appearently people like, my projects have over **8.3k** combined downloads as of 3/7/25!  
+I'm **KilLo**, I like creating random stuff that appearently people like, my projects have over **12.3k** combined downloads as of 3/7/25!  
 I primarily code in C# and WPF, but I also know a tad of Python and Ren'Py.  
   
 My latest projects are [extract-xiso-gui](https://github.com/KilLo445/extract-xiso-gui) and [NFSPatcher](https://github.com/KilLo445/NFSPatcher).
