@@ -1,8 +1,8 @@
 ## Hello! 👋
-I'm **KilLo**, I like creating random stuff that appearently people like, my projects have over **40k** combined downloads as of 1/30/26!  
-I primarily code in C# and WPF, but I also know a tad of Python and Ren'Py.  
+I'm **KilLo**, I like creating random stuff that apparently people like, my projects have over **70k** combined downloads as of 9/23/26!  
+I primarily code in C#, but I also know a little bit of Python and Ren'Py.  
   
-My latest projects are [extract-xiso-gui](https://github.com/KilLo445/extract-xiso-gui) and [NFSPatcher](https://github.com/KilLo445/NFSPatcher).  
+My latest projects are [extract-xiso-gui](https://github.com/KilLo445/extract-xiso-gui), [NFSPatcher](https://github.com/KilLo445/NFSPatcher) and [ExtractWebmVideo](https://github.com/KilLo445/ExtractWebmVideo).  
   
 I also make Clone Hero Charts!  
 Get them here: [Chorus](https://www.enchor.us/?charter=KilLo), [Google Drive](https://drive.google.com/drive/folders/1WyKqZDeqZvSo5wcgLuh-cYoURH_YhutR)
